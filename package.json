@@ -1,0 +1,23 @@
+{
+  "name": "demoqa-practiceform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelaT7/DemoQa-PracticeForm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/angelaT7/DemoQa-PracticeForm/issues"
+  },
+  "homepage": "https://github.com/angelaT7/DemoQa-PracticeForm#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
